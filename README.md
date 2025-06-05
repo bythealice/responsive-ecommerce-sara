@@ -4,7 +4,7 @@
 
 ![Resultado final do projeto]
 
-<h4 align="center"><a href="https://warmercolor.github.io/responsive-ecommerce-sara/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://bythealice.github.io/responsive-ecommerce-sara/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
